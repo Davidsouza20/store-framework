@@ -48,7 +48,7 @@
   },
 
   "tab-list#home": {
-    "blocks": [
+    "children": [
       "tab-list.item#home1",
       "tab-list.item#home2"
       ]
