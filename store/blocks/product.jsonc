@@ -31,26 +31,11 @@
       "verticalAlign": "middle",
       "preventVerticalStretch": true
     }
-  },
-
-  "product-name": {
-    "props": {
-      "showSku": true,
-      "showBrandName": true
-    }
-  },
-
-  "product-price": {
-    "props": {
-      "showSavings": true,
-      "showListPrice": true
-    }
-  },
-
-  "buy-button#product": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
   }
+
+ 
+
+ 
+
+  
 }
