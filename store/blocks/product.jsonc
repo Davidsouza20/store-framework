@@ -69,7 +69,7 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false,
-      "visibility": "more-than-one"
+      "initialSelection": "empty"
     }
   },
 
