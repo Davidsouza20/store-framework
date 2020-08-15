@@ -1,8 +1,0 @@
-{
-  "buy-button#product": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
-  }
-}

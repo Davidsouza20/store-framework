@@ -25,17 +25,32 @@
     "children": [
       "product-name",
       "product-price",
-      "buy-button#product"
+      "buy-button"
     ],
     "props": {
       "verticalAlign": "middle",
       "preventVerticalStretch": true
     }
+  },
+
+  "product-name": {
+    "props": {
+      "showSku": true,
+      "showBrandName": true
+    }
+  },
+
+  "product-price": {
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
+    }
+  },
+
+  "buy-button": {
+    "props": {
+      "isOneClickBuy": true,
+      "showTooltipOnSkuNotSelected": false
+    }
   }
-
- 
-
- 
-
-  
 }
