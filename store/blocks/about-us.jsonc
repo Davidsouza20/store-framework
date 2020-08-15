@@ -22,16 +22,17 @@
 
   "tab-list.item#home1": {
     "children": [
-      "rich-text#1"
+      "rich-text#home1"
     ],
     "props": {
       "tabId": "majorAppliances",
       "defaultActiveTab": true
+    },
   },
 
   "tab-list.item#home2": {
     "children": [
-      "rich-text#2"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "electronics"
@@ -39,14 +40,14 @@
     
   },
 
-  "rich-text#1": {
+  "rich-text#home1": {
     "props": {
       "text": "Major Appliances",
       "textPosition": "CENTER",
       "font": "t-heading-3"
     }
   },
-  "rich-text#2": {
+  "rich-text#home2": {
     "props": {
       "text": "Electronics",
       "textPosition": "CENTER",
@@ -122,5 +123,4 @@
       "maxHeight": "600px"
     }
   }
-}
 }
