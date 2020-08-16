@@ -55,6 +55,9 @@
   },
 
   "tab-list.item#home1": {
+    "blocks": [
+      "rich-text#1"
+    ],
     "props": {
       "tabId": "majorAppliances",
       "label": "Sobre",
