@@ -31,10 +31,7 @@
 
   "header-row#notification": {
     "children": [
-      "rich-text#header",
-      "header-spacer",
-      "rich-text#header",
-      "header-spacer"
+      "rich-text#header"
     ]
   },
   
