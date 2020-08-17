@@ -50,6 +50,7 @@
   "tab-list#home": {
     "children": [
       "tab-list.item#home1",
+      "rich-text#1",
       "tab-list.item#home2"
       ]
   },
