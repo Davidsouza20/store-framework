@@ -59,6 +59,7 @@
       "tabId": "majorAppliances",
       "label": "Sobre",
       "defaultActiveTab": true,
+      "contentItem": "rich-text#1"
     }
   },
 
