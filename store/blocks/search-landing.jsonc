@@ -8,8 +8,8 @@
 
   "image#landingbanner": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-      "maxWidth": 100
+      "src": "https://cdn.pixabay.com/photo/2020/01/26/19/32/architecture-4795667_960_720.jpg",
+      "minWidth": "100%"
     }
   },
 
