@@ -1,7 +1,10 @@
 {
   "header-row#notification": {
     "children": [
-      "rich-text#header"
+      "rich-text#header",
+      "header-spacer",
+      "rich-text#header",
+      "header-spacer"
     ]
   },
   
